@@ -7,8 +7,6 @@
 ## 📊 Overview
 This project analyzes furniture sales data using an Excel dashboard to extract meaningful insights about sales performance, customer behavior, and product trends across different sales platforms.
 
-The dashboard helps transform raw data into clear metrics that support better business decisions.
-
 ---
 
 ## 🎯 Objective
