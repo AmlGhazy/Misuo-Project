@@ -26,10 +26,10 @@ The dashboard focuses on monitoring SLA performance, identifying factors affecti
 ---
 
 ## 📌 Key KPIs
-- Total Orders
-- Total Sales
-- Average Sales Value
-- Corporate vs Individual Customers %
+- Number of Orders
+- Total Revenue
+- Average Order Value (AOV)
+- Customer Type Distribution (Corporate vs Individual)
 
 ---
 
