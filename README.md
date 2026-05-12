@@ -55,33 +55,8 @@ The dashboard helps transform raw data into clear metrics that support better bu
 
 ---
 
-# Misuo-Project
-<p align="center">
-  <img width="700" src="images/overview.png">
-</p>
-
-# 📞 Misuo-Sales-Analysis-Dashboard
-
-Excel dashboard analyzing call center operations, SLA trends, abandon rates, and agent performance across multiple projects.
-
-
-## 📌 Key KPIs
-- Number of Orders
-- Total Revenue
-- Average Order Value (AOV)
-- Customer Type Distribution (Corporate vs Individual)
-
----
-
-
 ## 🔗 Project Sharing
 
 👉 LinkedIn Case Study: https://www.linkedin.com/posts/aml-ghazy-b1a50b3a4_dashboard-dataanalysis-excel-share-7415916024895827968-kIa9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGMIDIYBHodAL2wtNlFwkDPUWM0DzigmRgk
 ---
-
-
- 
-
-
-
 
