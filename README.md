@@ -28,20 +28,16 @@ This project analyzes furniture sales data using an Excel dashboard to extract m
 
 
 ## 📊 Key Insights
-- Certain platforms contribute significantly higher sales volume than others.
-- A small number of products generate the majority of sales.
-- Specific colors are more preferred by customers, influencing purchasing behavior.
-- Order cancellation rate highlights potential operational issues.
-- On-time delivery rate plays a key role in customer satisfaction.
+- Beds (Bunk Beds) are the best-selling product, indicating strong demand for space-saving furniture solutions.
+- Homzmart platform records the highest number of products sold, making it the leading sales channel.
+- Black color is the most preferred by customers, showing a clear trend toward modern and neutral furniture styles.
 
 ---
 
 ## 💡 Recommendations
-- Focus marketing efforts on high-performing platforms.
-- Optimize inventory for top-selling products and colors.
-- Investigate reasons behind order cancellations.
-- Improve delivery processes to increase on-time delivery rate.
-- Enhance product availability based on demand trends.
+- Focus marketing and inventory planning on bunk beds as the highest-demand product.
+- Strengthen performance on the Homzmart platform due to its strong sales contribution.
+- Expand product variety in black and neutral colors to align with customer preferences and increase sales opportunities.
 
 ---
 
