@@ -1,4 +1,3 @@
-# Misuo-Project
 <p align="center">
   <img width="700" src="images/overview.png">
 </p>
